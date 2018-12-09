@@ -5,7 +5,7 @@ To run enter commands:
 3. npm run dev
 
 
-Appliction will be available at: http://localhost:3000
+Application will be available at: http://localhost:3000
 
 2 Pages are available: 
 
