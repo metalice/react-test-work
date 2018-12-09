@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "install client": "npm i --prefix client --save",
-    "install backend": "npm i --save",
+    "client": "npm i --prefix client --save",
+    "backend": "npm i --save",
     "dev": "concurrently \"node index.js\" \"cd  client && npm start\""
   },
   "dependencies": {
